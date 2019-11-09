@@ -30,7 +30,7 @@ Service Workers/PWA
 *** 
 ## Scalable Distributed Messaging w/Kafka & K8 - Claudius Mbemba, CTO of [neu](http://www.neucleans.com)
 
-Kafka is a production-ready, scalable, distributed streaming platform that’s being used by top companies around the world. Learn how you can turn Kafka into a powerful pub-sub mechanism for their own projects.
+> Kafka is a production-ready, scalable, distributed streaming platform that’s being used by top companies around the world. Learn how you can turn Kafka into a powerful pub-sub mechanism for their own projects.
 
 
 [Kafka Pub Sub](https://github.com/NeuCleans/kafka-pub-sub)

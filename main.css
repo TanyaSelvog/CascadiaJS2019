@@ -5,3 +5,8 @@ h1 {
 h2 {
     color: rgb(250, 221, 90);
 }
+
+blockquote {
+    border: none;
+}
+
